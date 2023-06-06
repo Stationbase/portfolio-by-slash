@@ -1,2 +1,2 @@
 # portfolio-by-slash
-VOICI MON PREMIER PORTFOLIO CODé en html
+VOICI LE CODE DE MON PORTFOLIO
